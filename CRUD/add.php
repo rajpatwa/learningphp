@@ -21,5 +21,7 @@ if(isset($_POST['submit'])){
     <form method = "POST" action ="">
   Name:<input type = "name" name = "fullname"  placeholder ="Enter the Full Name."><br>
   Gender:<input type = "" name = "gender"  placeholder ="Enter the gender.."><br>
+      <button></button>
   </form>
   </body>
+</html>
